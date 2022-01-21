@@ -13,7 +13,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(54, 153, 123);
+    background-color: rgb(4, 88, 22);
   }
   
   li {
@@ -47,7 +47,7 @@ ul {
   }
   .center {
     text-align: center;
-    color: rgb(13, 84, 112);
+    color: rgb(4, 82, 15);
    
   }
 button {
@@ -61,10 +61,11 @@ button {
       text-decoration: none;
       outline: none;
       color: #fff;
-      background-color: #2062a0;
-      border: 2px solid #270761; 
+      background-color: #076649;
+      border: 2px solid #076143; 
       border-radius: 15px;
     
     }
+    
     
   
